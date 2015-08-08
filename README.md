@@ -1,5 +1,2 @@
 # demo
-<<<<<<< HEAD
-haha
-haha
-=======
+ddddddd
