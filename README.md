@@ -1,3 +1,5 @@
 # demo
+<<<<<<< HEAD
 haha
 haha
+=======
